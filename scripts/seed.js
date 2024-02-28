@@ -1,3 +1,4 @@
+// db 를 다룬다.
 const { db } = require('@vercel/postgres');
 const {
   invoices,
